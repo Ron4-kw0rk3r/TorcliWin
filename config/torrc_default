@@ -1,0 +1,8 @@
+## comments file read 
+
+ControlPort 9051
+
+CookieAuthentication 1
+CookieAuthFileGroupReadable 1
+##EntryNodes {us} StricNode 1
+## ExitNodes {sg}, {tr} StricNode 0
